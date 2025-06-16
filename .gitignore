@@ -1,0 +1,15 @@
+.history
+node_modules
+dist
+.vscode
+# Logs
+logs
+npm-debug.log*
+# Dependency directories
+jspm_packages
+# Optional npm cache directory
+.npm                                
+
+coverage
+.history
+.DS_Store
